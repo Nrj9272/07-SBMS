@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>04-SB-Banner-App1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>04-SB-Banner-Application-Change</name>
+	<name>04-SB-Banner-Application-Change2</name>
 	<description>Demo project for Spring Boot1</description>
 	<properties>
 		<java.version>1.8</java.version>
